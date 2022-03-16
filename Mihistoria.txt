@@ -6,3 +6,6 @@ Por el momento vamos bien, pero necesito dominar mejor los conceptos
 de git reset y git rm. 
 
 Esta nueva linea seria para una cuarta versión de mi git
+
+Se borro lo que habia escrito con reset soft de la quinta version nueva
+al hacer un reset hard. esto linea sera la nueva quinta version 2
