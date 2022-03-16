@@ -4,3 +4,5 @@ Realmente no es la primera prueba, es la segunda.
 
 Por el momento vamos bien, pero necesito dominar mejor los conceptos
 de git reset y git rm. 
+
+Esta nueva linea seria para una cuarta versión de mi git
