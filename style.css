@@ -1,3 +1,14 @@
+.cabecera{
+    min-height: 100px;
+    background-color: black; 
+}
+.navegacion{
+    background-color: gray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+}
 p{
     color: darkblue;
 }
