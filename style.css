@@ -1,6 +1,7 @@
 p{
     color: darkblue;
 }
+<<<<<<< HEAD
 .contenedor-pie{
     min-height: 50px;
     background-color: red;
@@ -11,4 +12,9 @@ p{
 .pie-p{
     color: white;
     font-weight: bolder;
+=======
+main{
+    min-height: 50px;
+    background-color: wheat;
+>>>>>>> 9103d8c (Agregando el Main)
 }
