@@ -1,3 +1,14 @@
 p{
     color: darkblue;
 }
+.contenedor-pie{
+    min-height: 50px;
+    background-color: red;
+    font-weight: bolder;
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+}
+.pie-p{
+    color: white;
+}
