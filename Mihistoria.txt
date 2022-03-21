@@ -12,6 +12,6 @@ al hacer un reset hard. esto linea sera la nueva quinta version 2
 
 Ya me siento preparado para avanzar con los conceptos de repositorio remoto
 
-Prueba con commit am
+Prueba con commit am.
 
 

@@ -12,3 +12,19 @@
 p{
     color: darkblue;
 }
+.contenedor-pie{
+    min-height: 50px;
+    background-color: red;
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+}
+.pie-p{
+    color: white;
+    font-weight: bolder;
+    
+}
+main{
+    min-height: 50px;
+    background-color: wheat;
+}
